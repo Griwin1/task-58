@@ -26,4 +26,15 @@ html {
   justify-content: center;
   font-size: 10rem;
   flex-flow: column;
+
+}
+ul
+{
+  display: flex;
+  flex-direction: row;
+}
+.navbar
+{
+  position: fixed;
+  top: 0;
 }
